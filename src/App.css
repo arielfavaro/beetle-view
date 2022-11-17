@@ -1,0 +1,4 @@
+.App {
+  @apply w-screen h-screen;
+  background-color: #fffce8;
+}
