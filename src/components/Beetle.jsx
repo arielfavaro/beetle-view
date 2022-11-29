@@ -5,11 +5,13 @@ export default function BeetleSepareted(props) {
     const { scene, nodes, materials } = useGLTF('/model/beetle/beetle.gltf');
 
     const {
+        // showBody,
         colorBody,
+        // showBumper,
     } = useControls({
-        showBody: true,
+        // showBody: true,
         colorBody: '#5d8aa8',
-        showBumper: true,
+        // showBumper: true,
     });
 
     // console.log(scene);

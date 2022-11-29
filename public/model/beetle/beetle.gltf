@@ -712,9 +712,9 @@
             "uri" : "textures/13-Engine%20Fusca_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "13-Engine Fusca_Mixed_AO",
-            "uri" : "textures/13-Engine%20Fusca_Mixed_AO.jpg"
+            "mimeType" : "image/png",
+            "name" : "15_engine_fusca_diff",
+            "uri" : "textures/15_engine_fusca_diff.png"
         },
         {
             "mimeType" : "image/png",
@@ -812,9 +812,9 @@
             "uri" : "textures/2-Tire%20hp%20bk_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "2-Tire hp bk_Mixed_AO",
-            "uri" : "textures/2-Tire%20hp%20bk_Mixed_AO.jpg"
+            "mimeType" : "image/png",
+            "name" : "14_tires_highpoly_bk_diff",
+            "uri" : "textures/14_tires_highpoly_bk_diff.png"
         },
         {
             "mimeType" : "image/png",
@@ -827,9 +827,9 @@
             "uri" : "textures/%201-Tire%20HP%20Fr_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : " 1-Tire HP Fr_Mixed_AO",
-            "uri" : "textures/%201-Tire%20HP%20Fr_Mixed_AO.jpg"
+            "mimeType" : "image/png",
+            "name" : "13_tires_highpoly_fr_diff",
+            "uri" : "textures/13_tires_highpoly_fr_diff.png"
         },
         {
             "mimeType" : "image/png",
