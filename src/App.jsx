@@ -4,6 +4,7 @@ import { Suspense } from 'react'
 import '@/App.css'
 import Loader from '@/components/Loader';
 import Scene from '@/components/Scene';
+import Credits from '@/components/Credits';
 
 function App() {
 
@@ -37,16 +38,11 @@ function App() {
             files="/environment/potsdamer_platz_1k.hdr"
           />
 
-          {/* <Environment preset="city" /> */}
-
         </Suspense>
       </Canvas>
 
-      <div className="absolute bottom-0 text-xs right-0 w-32 p-2">
-        <a href="https://www.blenderkit.com/asset-gallery-detail/e8a58537-3114-4962-a5c5-60fdb0346f1c/" target="_blank">
-          Beetle Model by Rodrigo Marini
-        </a>
-      </div>
+      <Credits />
+
     </div>
   )
 }
