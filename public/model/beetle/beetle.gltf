@@ -1,6 +1,6 @@
 {
     "asset" : {
-        "generator" : "Khronos glTF Blender I/O v3.3.27",
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
         "version" : "2.0"
     },
     "scene" : 0,
@@ -667,9 +667,9 @@
             "uri" : "textures/1-Body_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/png",
-            "name" : "1_body_diff",
-            "uri" : "textures/1_body_diff.png"
+            "mimeType" : "image/jpeg",
+            "name" : "1-Body_Base_Color_red",
+            "uri" : "textures/1-Body_Base_Color_red.jpg"
         },
         {
             "mimeType" : "image/png",
@@ -697,9 +697,9 @@
             "uri" : "textures/2-Extensoes_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "2-Extensoes_Mixed_AO",
-            "uri" : "textures/2-Extensoes_Mixed_AO.jpg"
+            "mimeType" : "image/png",
+            "name" : "2_extensoes_diff",
+            "uri" : "textures/2_extensoes_diff.png"
         },
         {
             "mimeType" : "image/png",
@@ -782,9 +782,9 @@
             "uri" : "textures/7-Interior%20Acessorios_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "7-Interior Acessorios_Mixed_AO",
-            "uri" : "textures/7-Interior%20Acessorios_Mixed_AO.jpg"
+            "mimeType" : "image/png",
+            "name" : "7_interior_acessories_diff",
+            "uri" : "textures/7_interior_acessories_diff.png"
         },
         {
             "mimeType" : "image/png",
@@ -857,9 +857,9 @@
             "uri" : "textures/10-Rodas%20Frente_Normal_OpenGL.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "10-Rodas Frente_Mixed_AO",
-            "uri" : "textures/10-Rodas%20Frente_Mixed_AO.jpg"
+            "mimeType" : "image/png",
+            "name" : "10_wheels_fr",
+            "uri" : "textures/10_wheels_fr.png"
         },
         {
             "mimeType" : "image/png",
