@@ -1,4 +1,5 @@
+# Beetle View
 
 ## TODO
-- add LOD to models
-
+- add some toggle animations on doors, bumper
+- fix/improved AO Map
