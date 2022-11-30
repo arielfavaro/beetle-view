@@ -5,7 +5,7 @@ export default function Loader() {
 
     return (
         <Html center>
-            {progress} % loaded
+            {progress.toFixed(0)} % loaded
         </Html>
     );
 }
